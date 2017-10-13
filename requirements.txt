@@ -10,3 +10,5 @@ uvloop
 pymongo
 pylibinjection
 jinja2
+
+#guru machau!!
